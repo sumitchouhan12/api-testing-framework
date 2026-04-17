@@ -58,7 +58,7 @@ api-testing-framework/
 ### 1️⃣ Clone the Repository
 
 ```bash id="api2"
-git clone https://github.com/YOUR_USERNAME/api-testing-framework.git
+git clone https://github.com/sumitchouhan12/api-testing-framework.git
 cd api-testing-framework
 ```
 
